@@ -38,26 +38,26 @@ Ensure the website is responsive and works seamlessly on both desktop and mobile
 
 # Screenshots
 ## Main Page
-![Main Page](`./Screenshots/Main%20Page.png`)
+![Main Page](./Screenshots/Main%20Page.png)
 
 ## Applying Filter
-![On Applying Filter](`./Screenshots/On%20Applying%20Filter.png`)
+![On Applying Filter](./Screenshots/On%20Applying%20Filter.png)
 
 ## Search the Item
-![Search Item](`./Screenshots/Search%20Item.png`)
+![Search Item](./Screenshots/Search%20Item.png)
 
 ## Add to Cart Page
-![Add to cart](`./Screenshots/Add%20to%20.png`)
+![Add to cart](./Screenshots/Add%20to%20.png)
 
 ## On Adding Item to Cart
-![Popup](`./Screenshots/Popup%20after%20adding%20Item.png)
+![Popup](./Screenshots/Popup%20after%20adding%20Item.png)
 
 ## Product Summary
-![Item on cart](`./Screenshots/Product%20Summary.png)
+![Item on cart](./Screenshots/Product%20Summary.png)
 
 ## Payment Page
-![Payment Page](`./Screenshots/Payment%20Page.png`)
-![Payment Details](`./Screenshots/Payment%20Details.png`)
+![Payment Page](./Screenshots/Payment%20Page.png)
+![Payment Details](./Screenshots/Payment%20Details.png)
 
 ## Successful Payment
-![Payment Success](`./Screenshots/Successful%20Payment.png`)
+![Payment Success](./Screenshots/Successful%20Payment.png)
