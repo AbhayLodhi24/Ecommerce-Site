@@ -11,9 +11,7 @@ Display a variety of products with images, names, prices, and "Add to Cart" butt
 
 ## Shopping Cart: 
 
-Implemented a cart section to display the added products, quantities, and total cost. Allow users to increase, decrease, or remove items from the cart. 
-
-## Display real-time updates of the cart total and item count. 
+Implemented a cart section to display the added products, quantities, and total cost. Allow users to increase, decrease, or remove items from the cart. Display real-time updates of the cart total and item count. 
 
 ## Checkout: 
 
@@ -47,7 +45,7 @@ Ensure the website is responsive and works seamlessly on both desktop and mobile
 ![Search Item](./Screenshots/Search%20Item.png)
 
 ## Add to Cart Page
-![Add to cart](./Screenshots/Add%20to%20.png)
+![Add to cart](./Screenshots/Add%20to%20Cart.png)
 
 ## On Adding Item to Cart
 ![Popup](./Screenshots/Popup%20after%20adding%20Item.png)
@@ -57,6 +55,7 @@ Ensure the website is responsive and works seamlessly on both desktop and mobile
 
 ## Payment Page
 ![Payment Page](./Screenshots/Payment%20Page.png)
+---
 ![Payment Details](./Screenshots/Payment%20Details.png)
 
 ## Successful Payment
